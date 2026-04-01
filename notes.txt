@@ -1,0 +1,32 @@
+Graph is also a tree if and only if all the vertices are connected to each other.
+The number of edge is numbers of nodes - 1;
+parent node is what when there is childer like nodes.
+The nodes which belongs to the same parent is call siblings.
+Degree of Node:-
+Total of childer a node have is known as Degree.
+Degree of tree = Highest number of Degree among all the nodes in the tree.
+
+Internal nodes:-
+The nodes which have at least one childer is called internal nodes.
+
+Leaf Node:-
+The node which do not have any child node is called leaf node.
+
+Levels :-
+In tree Ech step from top to bottom is called level.
+
+Height of a Node:-
+Longest path from that node to the leaf node cnt number of edges;
+
+height of tree:-
+From root node to leaf node .
+
+Depth of a tree:
+Depth is like Longest path from that node to the root node.
+
+binary tree:
+In binary tree each node must have at most 2 childer.
+
+binary Search tree:-
+root node > left node && root node < right node.
+
